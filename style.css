@@ -1,0 +1,33 @@
+body {
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: wheat;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-variant: small-caps;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#title {
+    text-align: center;
+    text-decoration: underline;
+}
+#table {
+    text-align: center;
+    word-spacing: 15px;
+}
+
+.word-spacing {
+    word-spacing: 0px;
+}
+.justify {
+    text-align: justify;
+}
+.center {
+    text-align: center;
+}
