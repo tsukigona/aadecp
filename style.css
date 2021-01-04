@@ -1,5 +1,7 @@
 body {
     background-color: wheat;
+    font-size: large;
+    line-height: 20px;
 }
 h1, h2, h3, h4, h5, h6 {
     font-variant: small-caps;
@@ -10,7 +12,7 @@ a {
 }
 
 #container {
-    width: 75%;
+    width: 60%;
     margin: auto;
     border: 0.5mm dashed black;
     padding: 15px;
@@ -23,9 +25,15 @@ a {
     text-align: center;
     word-spacing: 15px;
 }
+#presentation1 {
+    height: 266px;
+}
 #presentation2 {
-    width: 498px;
+    width: 256px;
     border: 3px solid black;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .word-spacing {
